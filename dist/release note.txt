@@ -1,0 +1,4 @@
+ezLNT190327 update
+1. add ble mesh part function.
+2. add socket for ble mesh part.
+3. fix known bugs.
