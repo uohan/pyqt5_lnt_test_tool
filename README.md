@@ -8,8 +8,8 @@
 5. log print
 ``` 
 
-![](pic/ezLNTGUIshow1.png)
+![image](https://github.com/uohan/pyqt5_lnt_test_tool/blob/master/pic/ezLNTGUIshow1.png)
 
-![](pic/ezLNTGUIshow2.png)
+![image](https://github.com/uohan/pyqt5_lnt_test_tool/blob/master/pic/ezLNTGUIshow2.png)
 
 
